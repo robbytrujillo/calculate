@@ -4,4 +4,4 @@
 
 <p>Calculate adalah solusi kalkulator digital modern dengan tampilan elegan dan performa cepat. Dilengkapi fitur operasi matematika lengkap, dukungan keyboard, serta desain responsif, aplikasi ini memberikan pengalaman menghitung yang praktis dan nyaman di berbagai perangkat</p>
 
-<img src="images/image.png">
+<img src="images/image.png" style="border-radius: 30px;">
