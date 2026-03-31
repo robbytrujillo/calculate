@@ -2,6 +2,6 @@
 
 <h2>Calculate</h2>
 
-<p>Calculate adalah solusi kalkulator digital modern dengan tampilan elegan dan performa cepat. Dilengkapi fitur operasi matematika lengkap, dukungan keyboard, serta desain responsif, aplikasi ini memberikan pengalaman menghitung yang praktis dan nyaman di berbagai perangkat</p>
+<p>Calculate is a modern digital calculator solution with an elegant appearance and fast performance. Equipped with comprehensive math features, keyboard support, and a responsive design, this app provides a practical and convenient calculating experience on a variety of devices.</p>
 
 <img src="images/image.png" style="border-radius: 30px;">
